@@ -8,7 +8,9 @@ Inspired by research and applications of deep learning in medical imaging, this 
 ---
 We used the [Skin Cancer - 9 Classes (ISIC) dataset](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic) from Kaggle.
 Before running the notebook, upload your `kaggle.json` API key file when prompted (you can generate this from your Kaggle account settings).
-
+You do **not** need to manually download the dataset.  
+Before running the notebook, simply upload your `kaggle.json` API key file when prompted.  
+*You can generate this from your Kaggle account settings under “API” > Create New Token.*
 
 
 
