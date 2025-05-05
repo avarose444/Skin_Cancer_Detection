@@ -12,6 +12,8 @@ You do **not** need to manually download the dataset.
 Before running the notebook, simply upload your `kaggle.json` API key file when prompted.  
 *You can generate this from your Kaggle account settings under “API” > Create New Token.*
 
+The FinalSkinClassification.ipynb is our final version.
+
 ---
 
 **References:**
