@@ -15,6 +15,19 @@ Before running the notebook, simply upload your `kaggle.json` API key file when 
 The FinalSkinClassification.ipynb is our final version.
 
 ---
+**Figures:**
+
+All figures in this notebook were generated using Python and matplotlib, primarily for data exploration and model interpretability. The following types of visualizations are included:
+
+- Sample Images by Class: One representative image from each of the 9 skin cancer classes was plotted by unbatching the training dataset and selecting a single image per class.
+
+- Clean vs Adversarial Comparisons: For each class, both the original (clean) and adversarially perturbed images were loaded from disk and displayed side-by-side to visualize the effects of adversarial attacks.
+
+- Bar Charts: Class distributions and accuracy metrics for the two models on clean and adversarial data were visualized using matplotlib.pyplot to better understand dataset imbalances and model behavior.
+
+These plots support reproducibility and visual diagnostics during model development.
+
+---
 
 **References:**
 
